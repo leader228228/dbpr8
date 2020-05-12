@@ -3,6 +3,7 @@ package birintsev.sumdu.edu.ua.dbpr8.entity;
 import lombok.*;
 
 @ToString
+@EqualsAndHashCode
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
